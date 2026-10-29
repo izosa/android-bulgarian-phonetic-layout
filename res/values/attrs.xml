@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Samsung's physical keyboard settings only list layouts tagged with the language they are for. -->
+    <attr name="subtypeLocale" format="string" />
+</resources>

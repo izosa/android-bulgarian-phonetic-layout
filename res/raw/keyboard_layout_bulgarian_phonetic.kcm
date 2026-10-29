@@ -324,7 +324,7 @@ key PLUS {
 }
 
 key Z {
-    label:                              '\u0437'
+    label:                              '\u0417'
     base:                               '\u0437'
     shift, capslock:                    '\u0417'
     ralt:                               'z'
@@ -332,10 +332,9 @@ key Z {
 }
 
 key X {
-    label:                              '\u044c'
+    label:                              '\u042c'
     base:                               '\u044c'
-    shift:                              '\u0437'
-    capslock:                           '\u042c'
+    shift, capslock:                    '\u042c'
     ralt:                               'x'
     ralt+shift, ralt+capslock:          'X'
 }

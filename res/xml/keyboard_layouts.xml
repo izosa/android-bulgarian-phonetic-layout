@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<keyboard-layouts xmlns:android="http://schemas.android.com/apk/res/android">
+<keyboard-layouts xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
     <keyboard-layout android:name="keyboard_layout_bulgarian_phonetic"
             android:label="@string/keyboard_layout_bulgarian_phonetic_label"
-            android:keyboardLayout="@raw/keyboard_layout_bulgarian_phonetic" />
+            android:keyboardLayout="@raw/keyboard_layout_bulgarian_phonetic"
+            app:subtypeLocale="bg" />
 </keyboard-layouts>
